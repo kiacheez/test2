@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kiacheez/test2.git/static/js/main.d834d5cc.js",
+    "main.js": "/kiacheez/test2.git/static/js/main.c7effee0.js",
     "index.html": "/kiacheez/test2.git/index.html",
-    "main.d834d5cc.js.map": "/kiacheez/test2.git/static/js/main.d834d5cc.js.map"
+    "main.c7effee0.js.map": "/kiacheez/test2.git/static/js/main.c7effee0.js.map"
   },
   "entrypoints": [
-    "static/js/main.d834d5cc.js"
+    "static/js/main.c7effee0.js"
   ]
 }
